@@ -1,0 +1,14 @@
+{
+ "channel_name": "",
+ "language": "el",
+ "whisper_model": "large-v3",
+ "retake_cues": ["wait"],
+ "question_label": "Ερώτηση από follower",
+ "cta": {
+  "bio": ["Link στο bio"],
+  "comment": ["Γράψε στα σχόλια", "και σου το στέλνω στο DM"]
+ },
+ "platforms": ["TikTok", "Instagram Reels", "YouTube Shorts", "Facebook Reels"],
+ "fixes": {},
+ "proper": []
+}

@@ -1,0 +1,6 @@
+# Python 3.12. Installed by SETUP.md into tools/.venv
+numpy<3
+faster-whisper>=1.1
+torch>=2.3
+transformers>=4.44,<5
+opencv-python-headless>=4.9

@@ -1,0 +1,16 @@
+# clips, work files and renders stay on this computer
+input/*
+!input/README.md
+work/
+out/
+archive/
+channel.json
+# installed by SETUP.md
+.remotion/
+tools/.venv/
+tools/models/
+video/node_modules/
+video/public/clips/
+__pycache__/
+.DS_Store
+Thumbs.db
